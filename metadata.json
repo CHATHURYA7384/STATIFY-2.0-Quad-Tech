@@ -1,0 +1,6 @@
+{
+  "name": "STATIFY 2.0",
+  "description": "STATIFY 2.0: An interactive full-stack AI Agent acting as a dynamic fantasy sports strategist, utilizing custom mathematical models and intelligent RAG-grounded insights for 11-player roster optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
